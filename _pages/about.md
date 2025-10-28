@@ -23,7 +23,7 @@ Previously, I earned my M.S. (Thesis-based) in Information Technology from The H
 
 My recent research explores the use of LLMs for automated bug repair in XR applications and security challenges in anomaly detection systems. I have contributed to top-tier conferences and journals, with works published in venues such as IEEE/ACM ICSE and IEEE TIFS.  
 <br>
-You can find my CV [here](Jingwen_Wu_CV_EN.pdf).
+You can find my CV [here](docs/Jingwen_Wu_CV_EN.pdf).
 
 # 🔥 News
 - *2025.10*: &nbsp;🌟Our work on "XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models" was accepted at the 48th IEEE/ACM International Conference on Software Engineering (ICSE'26, CCF-A).
