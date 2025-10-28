@@ -44,7 +44,7 @@ You can find my CV [here](docs/Jingwen_Wu_CV_EN.pdf).
 </div>
 </div>
 
-- [Coupled-Space Attacks Against Random-Walk-based Anomaly Detection](https://ieeexplore.ieee.org/document/XXXXXX), Y. Lai, M. Waniek, L. Li, **J. Wu**, Y. Zhu, T. P. Michalak, K. Zhou, IEEE TIFS, 2024
+- [Coupled-Space Attacks Against Random-Walk-based Anomaly Detection](https://dl.acm.org/doi/abs/10.1109/TIFS.2024.3468156), Y. Lai, M. Waniek, L. Li, **J. Wu**, Y. Zhu, T. P. Michalak, K. Zhou, IEEE TIFS, 2024
 
 # 🎖 Honors and Awards
 - *2024*: Awarded PhD scholarship at Hong Kong Baptist University.
