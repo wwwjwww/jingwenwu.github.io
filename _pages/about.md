@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Jingwen Wu"
+excerpt: "PhD Student in Software Engineering | AI Security & XR Reliability Enthusiast"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,53 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Welcome! I am **Jingwen Wu**, a PhD student in Software Engineering at Hong Kong Baptist University, supervised by Dr. Dai Hongning. My research interests span **AI Security**, **Extended Reality (XR) Reliability**, and the intersection of large language models (LLMs) with software engineering. I am passionate about designing robust and secure intelligent systems for real-world applications.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Previously, I earned my M.S. (Thesis-based) in Information Technology from The Hong Kong Polytechnic University, supervised by Dr. Huang Xiao, and my B.S. in Computer Science and Technology from Beijing University of Posts and Telecommunications.
 
+My recent research explores the use of LLMs for automated bug repair in XR applications and security challenges in anomaly detection systems. I have contributed to top-tier conferences and journals, with works published in venues such as IEEE/ACM ICSE and IEEE TIFS.  
+<br>
+You can find my CV [here](Jingwen_Wu_CV_EN.pdf).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🚀 Started my PhD journey at HKBU, focusing on software engineering and AI security!
+- *2024.04*: &nbsp;🎉 Our work on "Coupled-Space Attacks Against Random-Walk-based Anomaly Detection" is published in IEEE Transactions on Information Forensics and Security.
+- *2023.09*: &nbsp;🛠 Completed research on Dual-Space Attacks in anomaly detection at STiLLAB, PolyU.
 
-# 📝 Publications 
+# 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='images/xrfix.png' alt="XRFix" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models](https://ieeexplore.ieee.org/document/XXXXXX)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jingwen Wu**, Hanyang Guo, Hong-Ning Dai, Xiapu Luo
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/jingwenwu/XRFix)  
+- Developed an open-source XR codebase and dataset, customized static analyzers for Unity, and designed prompt templates for LLM-driven bug repair.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Coupled-Space Attacks Against Random-Walk-based Anomaly Detection](https://ieeexplore.ieee.org/document/XXXXXX), Y. Lai, M. Waniek, L. Li, **J. Wu**, Y. Zhu, T. P. Michalak, K. Zhou, IEEE TIFS, 2024
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024*: Awarded PhD scholarship at Hong Kong Baptist University.
+- *2023*: Outstanding Research Assistant, STiLLAB, PolyU.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2024 - 2028*: Ph.D. Student in Computer Science, Hong Kong Baptist University (Supervisor: Dr. Dai Hongning)
+- *2022 - 2024*: M.S. in Information Technology (Thesis-based), The Hong Kong Polytechnic University (Supervisor: Dr. Huang Xiao)
+- *2016 - 2020*: B.S. in Computer Science and Technology, Beijing University of Posts and Telecommunications (Supervisor: Dr. Yu Wen)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09*: "Dual-Space Attacks in Graph Anomaly Detection," STiLLAB, PolyU.
+- *2024.05*: "Automated Bug Repair for XR Applications with LLMs," HKBU Research Seminar.
 
-# 💻 Internships
+# 💻 Internships & Employment
+- *2023.03 - 2023.09*: Part-time Research Assistant, STiLLAB, PolyU (Supervisor: Dr. Zhou Kai)
+- *2020.07 - 2022.03*: Test Engineer, Search and Recommendation Department, Jing Dong, Beijing, China
+
+---
+
+Thank you for visiting my webpage! I am always enthusiastic to connect and collaborate. Feel free to reach out via [csjwwu@comp.hkbu.edu.hk](mailto:csjwwu@comp.hkbu.edu.hk).
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
