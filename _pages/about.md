@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I am **Jingwen Wu**, a PhD student in Software Engineering at Hong Kong Baptist University, supervised by Dr. Dai Hongning. My research interests span **AI Security**, **Extended Reality (XR) Reliability**, and the intersection of large language models (LLMs) with software engineering. I am passionate about designing robust and secure intelligent systems for real-world applications.
+Welcome! I am **Jingwen Wu**, a PhD student in Software Engineering at Hong Kong Baptist University, supervised by [Dr. Dai Hongning](https://www.comp.hkbu.edu.hk/~henrydai/). My research interests span **AI Security**, **Extended Reality (XR) Reliability**, and the intersection of large language models (LLMs) with software engineering. I am passionate about designing robust and secure intelligent systems for real-world applications.
 
-Previously, I earned my M.S. (Thesis-based) in Information Technology from The Hong Kong Polytechnic University, supervised by Dr. Huang Xiao, and my B.S. in Computer Science and Technology from Beijing University of Posts and Telecommunications.
+Previously, I earned my M.S. (Thesis-based) in Information Technology from The Hong Kong Polytechnic University, supervised by [Dr. Huang Xiao](https://web.comp.polyu.edu.hk/xiaohuang/), and my B.S. in Computer Science and Technology from Beijing University of Posts and Telecommunications.
 
 My recent research explores the use of LLMs for automated bug repair in XR applications and security challenges in anomaly detection systems. I have contributed to top-tier conferences and journals, with works published in venues such as IEEE/ACM ICSE and IEEE TIFS.  
 <br>
@@ -35,7 +35,7 @@ You can find my CV [here](Jingwen_Wu_CV_EN.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='images/1141940c1eef55c10e3bf4d1d2b90269.png' alt="XRFix" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models](https://ieeexplore.ieee.org/document/XXXXXX)
+[XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models](https://ieeexplore.ieee.org/document/XXXXXX), 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE)
 
 **Jingwen Wu**, Hanyang Guo, Hong-Ning Dai, Xiapu Luo
 
@@ -56,7 +56,7 @@ You can find my CV [here](Jingwen_Wu_CV_EN.pdf).
 - *2016 - 2020*: B.S. in Computer Science and Technology, Beijing University of Posts and Telecommunications (Supervisor: Dr. Yu Wen)
 
 # 💬 Experience
-- *2025.06*: DataSLO Summer School, Norcia, Italy
+- *2025.06*: [DataSLO Summer School, Norcia, Italy](https://www.unistrapg.it/en/studiare-in-un-ateneo-internazionale/summer-school/dataslo)
 
 # 💻 Internships & Employment
 - *2023.03 - 2023.09*: Part-time Research Assistant, STiLLAB, PolyU (Supervisor: Dr. Zhou Kai)
