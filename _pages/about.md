@@ -19,8 +19,6 @@ redirect_from:
 
 Welcome! I am **Jingwen Wu**, a PhD student in Software Engineering at Hong Kong Baptist University, supervised by [Dr. Dai Hongning](https://www.comp.hkbu.edu.hk/~henrydai/). My research interests span **AI Security**, **Extended Reality (XR) Reliability**, and the intersection of large language models (LLMs) with software engineering. I am passionate about designing robust and secure intelligent systems for real-world applications.
 
-Previously, I earned my M.S. (Thesis-based) in Information Technology from The Hong Kong Polytechnic University, supervised by [Dr. Huang Xiao](https://web.comp.polyu.edu.hk/xiaohuang/), and my B.S. in Computer Science and Technology from Beijing University of Posts and Telecommunications.
-
 My recent research explores the use of LLMs for automated bug repair in XR applications and security challenges in anomaly detection systems. I have contributed to top-tier conferences and journals, with works published in venues such as IEEE/ACM ICSE and IEEE TIFS.  
 <br>
 You can find my CV [here](docs/Jingwen_Wu_CV_EN.pdf).
@@ -51,15 +49,15 @@ You can find my CV [here](docs/Jingwen_Wu_CV_EN.pdf).
 - *2023*: Outstanding Research Assistant, STiLLAB, PolyU.
 
 # 📖 Education
-- *2024 - 2028*: Ph.D. Student in Computer Science, Hong Kong Baptist University (Supervisor: Dr. Dai Hongning)
-- *2022 - 2024*: M.S. in Information Technology (Thesis-based), The Hong Kong Polytechnic University (Supervisor: Dr. Huang Xiao)
+- *2024 - 2028*: Ph.D. Student in Computer Science, Hong Kong Baptist University (Supervisor: [Dr. Dai Hongning](https://www.comp.hkbu.edu.hk/~henrydai/)
+- *2022 - 2024*: M.S. in Information Technology (Thesis-based), The Hong Kong Polytechnic University (Supervisor: [Dr. Huang Xiao]((https://web.comp.polyu.edu.hk/xiaohuang/)))
 - *2016 - 2020*: B.S. in Computer Science and Technology, Beijing University of Posts and Telecommunications (Supervisor: Dr. Yu Wen)
 
 # 💬 Experience
 - *2025.06*: [DataSLO Summer School, Norcia, Italy](https://www.unistrapg.it/en/studiare-in-un-ateneo-internazionale/summer-school/dataslo)
 
 # 💻 Internships & Employment
-- *2023.03 - 2023.09*: Part-time Research Assistant, STiLLAB, PolyU (Supervisor: Dr. Zhou Kai)
+- *2023.03 - 2023.09*: Part-time Research Assistant, STiLLAB, PolyU (Supervisor: [Dr. Zhou Kai](https://www4.comp.polyu.edu.hk/~kaizhou/))
 - *2020.07 - 2022.03*: Test Engineer, Search and Recommendation Department, Jing Dong, Beijing, China
 
 ---
