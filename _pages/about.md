@@ -65,4 +65,3 @@ You can find my CV [here](Jingwen_Wu_CV_EN.pdf).
 ---
 
 Thank you for visiting my webpage! I am always enthusiastic to connect and collaborate. Feel free to reach out via [csjwwu@comp.hkbu.edu.hk](mailto:csjwwu@comp.hkbu.edu.hk).
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
