@@ -30,7 +30,7 @@ You can find my CV [here](docs/Jingwen_Wu_CV_EN.pdf).
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='images/1141940c1eef55c10e3bf4d1d2b90269.png' alt="XRFix" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='images/1141940c1eef55c10e3bf4d1d2b90269.png' alt="XRFix" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models](https://ieeexplore.ieee.org/document/XXXXXX), 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE)
