@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I am **Jingwen Wu**, a PhD student in Software Engineering at Hong Kong Baptist University, supervised by [Dr. Dai Hongning](https://www.comp.hkbu.edu.hk/~henrydai/). My research interests span **AI Security**, **Extended Reality (XR) Reliability**, and the intersection of large language models (LLMs) with software engineering. I am passionate about designing robust and secure intelligent systems for real-world applications.
+Welcome! I am **Jingwen Wu**, a PhD student in Software Engineering at Hong Kong Baptist University, supervised by [Dr. Dai Hongning](https://www.comp.hkbu.edu.hk/~henrydai/). My research interests span **AI for SE**, **Extended Reality (XR) Reliability** and **AI Security**. I am passionate about designing robust and secure intelligent systems for real-world applications.
 
 My recent research explores the use of LLMs for automated bug repair in XR applications and security challenges in anomaly detection systems. I have contributed to top-tier conferences and journals, with works published in venues such as IEEE/ACM ICSE and IEEE TIFS.  
 <br>
