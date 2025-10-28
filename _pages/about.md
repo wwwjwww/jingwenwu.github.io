@@ -55,9 +55,8 @@ You can find my CV [here](Jingwen_Wu_CV_EN.pdf).
 - *2022 - 2024*: M.S. in Information Technology (Thesis-based), The Hong Kong Polytechnic University (Supervisor: Dr. Huang Xiao)
 - *2016 - 2020*: B.S. in Computer Science and Technology, Beijing University of Posts and Telecommunications (Supervisor: Dr. Yu Wen)
 
-# 💬 Invited Talks
-- *2023.09*: "Dual-Space Attacks in Graph Anomaly Detection," STiLLAB, PolyU.
-- *2024.05*: "Automated Bug Repair for XR Applications with LLMs," HKBU Research Seminar.
+# 💬 Experience
+- *2025.06*: DataSLO Summer School, Norcia, Italy
 
 # 💻 Internships & Employment
 - *2023.03 - 2023.09*: Part-time Research Assistant, STiLLAB, PolyU (Supervisor: Dr. Zhou Kai)
