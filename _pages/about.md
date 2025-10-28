@@ -26,13 +26,13 @@ My recent research explores the use of LLMs for automated bug repair in XR appli
 You can find my CV [here](Jingwen_Wu_CV_EN.pdf).
 
 # 🔥 News
-- *2024.05*: &nbsp;🚀 Started my PhD journey at HKBU, focusing on software engineering and AI security!
-- *2024.04*: &nbsp;🎉 Our work on "Coupled-Space Attacks Against Random-Walk-based Anomaly Detection" is published in IEEE Transactions on Information Forensics and Security.
-- *2023.09*: &nbsp;🛠 Completed research on Dual-Space Attacks in anomaly detection at STiLLAB, PolyU.
+- *2025.10*: &nbsp;🌟Our work on "XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models" was accepted at the 48th IEEE/ACM International Conference on Software Engineering (ICSE'26, CCF-A).
+- *2024.05*: &nbsp;🚀 Started my PhD journey at HKBU, focusing on AI for SE and XR (AR/VR/MR) systems.
+- *2024.04*: &nbsp;🎉 Our work on "Coupled-Space Attacks Against Random-Walk-based Anomaly Detection" is published in IEEE Transactions on Information Forensics and Security (TIFS'24, CCF-A).
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='images/1141940c1eef55c10e3bf4d1d2b90269.png' alt="XRFix" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2026</div><img src='images/1141940c1eef55c10e3bf4d1d2b90269.png' alt="XRFix" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models](https://ieeexplore.ieee.org/document/XXXXXX), 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE)
