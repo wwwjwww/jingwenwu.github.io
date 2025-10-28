@@ -39,7 +39,7 @@ You can find my CV [here](Jingwen_Wu_CV_EN.pdf).
 
 **Jingwen Wu**, Hanyang Guo, Hong-Ning Dai, Xiapu Luo
 
-[**Project**](https://github.com/jingwenwu/XRFix)  
+[**Open-Souce Project**](https://github.com/jingwenwu/XRFix)  
 - Developed an open-source XR codebase and dataset, customized static analyzers for Unity, and designed prompt templates for LLM-driven bug repair.
 </div>
 </div>
