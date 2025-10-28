@@ -26,7 +26,7 @@ You can find my CV [here](docs/Jingwen_Wu_CV_EN.pdf).
 # 🔥 News
 - *2025.10*: &nbsp;🌟Our work on "XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models" was accepted at the 48th IEEE/ACM International Conference on Software Engineering (ICSE'26, CCF-A).
 - *2024.05*: &nbsp;🚀 Started my PhD journey at HKBU, focusing on AI for SE and XR (AR/VR/MR) systems.
-- *2024.04*: &nbsp;🎉 Our work on "Coupled-Space Attacks Against Random-Walk-based Anomaly Detection" is published in IEEE Transactions on Information Forensics and Security (TIFS'24, CCF-A).
+- *2024.04*: &nbsp;🎉 Our work on "Coupled-Space Attacks Against Random-Walk-based Anomaly Detection" was published in IEEE Transactions on Information Forensics and Security (TIFS'24, CCF-A).
 
 # 📝 Selected Publications
 
